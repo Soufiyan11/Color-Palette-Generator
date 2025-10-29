@@ -35,5 +35,5 @@ Perfect for designers, developers, and anyone who loves colors!
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/color-palette-generator.git
+   git clone https://github.com/Soufiyan11/color-palette-generator.git
 
